@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Service Test Windows Service has been successfully installed.
+Creating EventLog source Test Windows Service in log Application...
+Committing assembly 'C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Uninstalling assembly 'C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Removing EventLog source Test Windows Service.
+Service Test Windows Service is being removed from the system...
+Service Test Windows Service was successfully removed from the system.
+Installing assembly 'C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+Installing service Test Windows Service...
+Service Test Windows Service has been successfully installed.
+Creating EventLog source Test Windows Service in log Application...
+Committing assembly 'C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.InstallLog
+   assemblypath = C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe

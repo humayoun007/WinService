@@ -1,0 +1,2 @@
+10/25/2018 8:28:32 PM: Service is started for file watching
+10/25/2018 8:31:38 PM: Service is stopping for file watching

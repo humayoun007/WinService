@@ -1,0 +1,7 @@
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.Cache
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+C:\Users\humayoun\Desktop\WinService\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
